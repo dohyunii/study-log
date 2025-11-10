@@ -1,0 +1,3 @@
+- Approach: dfs
+- Complexity: O(n+m)
+- Learned: constructing graph with new root
