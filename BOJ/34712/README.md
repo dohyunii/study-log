@@ -1,0 +1,3 @@
+- Approach: binary search, mathematics
+- Complexity: O(log(n))
+- Mistakes: tried to find the slope using f(1e5+1)-f(1e5). f(1e5+1)-f(1e5) equals to n.
