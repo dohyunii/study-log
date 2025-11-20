@@ -1,0 +1,3 @@
+- Approach: dynamic programming, bitmask
+- Complexity: O(n)
+- Learned: bitmasking on dp
