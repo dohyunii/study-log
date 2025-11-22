@@ -1,0 +1,4 @@
+- Approach: dynamic programming
+- Space Complexity: O(k)
+- Time Complexity: O(nk)
+- Learned: optimizing space complexity
