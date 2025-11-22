@@ -1,4 +1,5 @@
 - Approach: dfs
-- Complexity: log(n)
+- Space Complexity: O(1)
+- Time Complexity: O(log^2(n))
 - Learned: approximating divisions
 - Mistakes: should have used unsigned long long int
