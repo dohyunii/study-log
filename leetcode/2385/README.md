@@ -1,3 +1,4 @@
 - Approach: dfs
-- Complexity: O(n+m)
+- Space Complexity: O(n)
+- Time Complexity: O(n+m)
 - Learned: constructing graph with new root
