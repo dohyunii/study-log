@@ -1,4 +1,5 @@
-- Approach: binary search, hashing, 
-- Complexity: O(n * log(n))
+- Approach: binary search, hashing
+- Space Complexity: O(n)
+- Time Complexity: O(n * log(n))
 - Learned: reverse hashing
 - Mistakes: the reversed hash was calculated incorrectly. Should have used the power of 'n - r2' instead of 'l2'
