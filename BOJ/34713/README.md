@@ -1,4 +1,5 @@
 - Approach: binary search, greedy
-- Complexity: O(n * log(n))
+- Space Complexity: O(n)
+- Time Complexity: O(n * log(n))
 - Learned: tracking pointer for every parameter to optimize time complexity
 - Mistakes: it is not optimal to take the closest alphabet at once.
