@@ -1,3 +1,4 @@
 - Approach: dynamic programming, bitmask
-- Complexity: O(n)
+- Space Complexity: O(n)
+- Time Complexity: O(n)
 - Learned: bitmasking on dp
