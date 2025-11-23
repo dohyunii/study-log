@@ -1,0 +1,4 @@
+- Approach: tree, ad-hoc, constructive
+- Space Complexity: O(1)
+- Time Complexity: O(sqrt(k))
+- Learned: constructing full binary tree with loop
