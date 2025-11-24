@@ -1,0 +1,4 @@
+- Approach: mathematics, sorting, combinatorics
+- Space Complexity: O(n^2)
+- Time Complexity: O(nqlog(n))
+- Mistakes: instead of group[k], took just k
