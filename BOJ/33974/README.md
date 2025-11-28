@@ -1,0 +1,4 @@
+- Approach: case work, dynamic programming, bitmask, mathematics
+- Space Complexity: O(log(n))
+- Time Complexity: O(log(n))
+- Mistakes: should have checked if P >= (1LL << m), because if it is there does not exist the correct string; dp should be long long int
