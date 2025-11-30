@@ -2,26 +2,17 @@
 using namespace std;
 int n;
 int solve(string s, string t){
-    int answer = 0;
+    int answer = 0, mn = 1, curr = 0;
     auto update = [](string &s, const bool type, int &answer){
         char fc = (type ? 'R' : 'U'), ec = (type ? 'U' : 'R');
         int f = s.rfind(fc), e = s.find(ec);
         if(s[0] != fc || s[n - 1] != ec){
             ++answer;
-            if(f == n - 1 && !e){
-                swap(s[f], s[e]);
-            }
-            else if(e){
-                swap(s[e], s[n - 1]);
-            }
-            else{
-                swap(s[f], s[0]);
-            }
+            swap(s[f], s[e]);
         }
     };
     update(s, false, answer);
     update(t, true, answer);
-    int mn = 1, curr = 0;
     for(int i = 0; i < n - 1; ++i){
         curr += (s[i] == 'U') - (t[i] == 'U');
         mn = min(mn, curr);
