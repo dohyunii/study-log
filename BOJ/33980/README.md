@@ -1,0 +1,4 @@
+- Approach: greedy, ad-hoc, prefix sum
+- Space Complexity: O(n)
+- Time Complexity: O(n)
+- Key Factors: one swap can change the gap +1 or -1. It is always optimal to change the furthest R and Us.
