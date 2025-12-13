@@ -6,14 +6,12 @@ int dp[mxn];
 bool vis[mxn];
 void dfs(int v){
     vis[v] = true;
-    int mx = 0;
     for(auto i : g[v]){
         if(!vis[i]){
             dfs(i);
         }
-        mx = max(mx, dp[i]);
+        dp[v] = max(dp[v], dp[i] + 1);
     }
-    dp[v] = mx + 1;
 }
 int main(){
     ios::sync_with_stdio(false);
@@ -28,7 +26,7 @@ int main(){
     for(int i = 1; i <= n; ++i){
         if(!vis[i]){
             dfs(i);
-            answer = max(answer, dp[i] - 1);
+            answer = max(answer, dp[i]);
         }
     }
     cout << answer;
