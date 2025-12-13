@@ -1,3 +1,3 @@
 - Approach: dynamic programming
-- Space Complexity: O(n * m)
-- Time Complexity: O(n * m)
+- Space Complexity: O(H * W)
+- Time Complexity: O(H * W)
