@@ -1,0 +1,4 @@
+- Approach: probability theory, dynamic programming, mathematics
+- Space Complexity: O(N^3)
+- Time Complexity: O(N^3)
+- Mistakes: during the calculation, the DP state can exceed its initial state
