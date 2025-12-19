@@ -1,4 +1,4 @@
-**Topic:** string, hashing, Manacher's
+**Topic:** string, hashing, Manacher's \
 **Difficulty:** Platinum 4
 
 ## 1. Problem Description
