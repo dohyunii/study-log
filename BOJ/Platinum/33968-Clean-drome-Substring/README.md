@@ -6,7 +6,7 @@
 
 ## 2. Complexity Analys
 * **Space Complexity:** O($n$)
-* **Time Complexity:** O($n^2 \log(n)$)
+* **Time Complexity:** O($n^2\log(n)$)
 
 ## 3. Mistakes & Lessons
 **Lesson:** Harmonic Series are approximately $\ln(n)$
