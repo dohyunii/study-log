@@ -1,13 +1,13 @@
-## [[BOJ 33968] 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
+## [[BOJ-33968] 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
 
 > **Topic:** String, Hashing, Manacher's  
 > **Difficulty:** Platinum 4
 
-### 📊 Complexity Analysis
+### Complexity Analysis
 * **Time Complexity:** $O(n^2 \log n)$
 * **Space Complexity:** $O(n)$
 
-### 📝 Mistakes & Lessons
+### Mistakes & Lessons
 
 > [!TIP]
 > **Mathematical Insight: Harmonic Series**
