@@ -4,7 +4,7 @@
 > **Difficulty:** Gold II
 
 ### Complexity Analysis
-* **Time Complexity:** $O(\log(n))$
+* **Time Complexity:** $O(\log(N))$
 * **Space Complexity:** $O(1)$
 
 ### Mistakes & Lessons

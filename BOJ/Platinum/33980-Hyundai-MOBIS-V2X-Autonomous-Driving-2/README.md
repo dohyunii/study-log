@@ -4,8 +4,8 @@
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis
-* **Time Complexity:** $O(n)$
-* **Space Complexity:** $O(n)$
+* **Time Complexity:** $O(N)$
+* **Space Complexity:** $O(N)$
 
 ### Mistakes & Lessons
 **Lesson:** One swap can change the gap +1 or -1. It is always optimal to change the furthest R and Us.

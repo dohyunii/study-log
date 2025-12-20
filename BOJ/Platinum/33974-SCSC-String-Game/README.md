@@ -4,8 +4,8 @@
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis
-* **Time Complexity:** $O(\log(n))$
-* **Space Complexity:** $O(\log(n))$
+* **Time Complexity:** $O(\log(N))$
+* **Space Complexity:** $O(\log(N))$
 
 ### Mistakes & Lessons
 **Mistake:** Should have checked if P >= (1LL << m), because if it is, there does not exist the correct string; dp should be long long int.

@@ -4,10 +4,10 @@
 > **Difficulty:** Platinum 4
 
 ### Complexity Analysis
-* **Time Complexity:** $O(n^2 \log n)$
-* **Space Complexity:** $O(n)$
+* **Time Complexity:** $O(N^2 \log N)$
+* **Space Complexity:** $O(N)$
 
 ### Mistakes & Lessons
-**Lesson:** The partial sum of a Harmonic Series is approximately $\ln(n)$, which is why $O(\sum \frac{n}{i}) = O(n \ln(n))$.
+**Lesson:** The partial sum of a Harmonic Series is approximately $\ln(N)$, which is why $O(\sum \frac{N}{i}) = O(N \ln(N))$.
 
 ---

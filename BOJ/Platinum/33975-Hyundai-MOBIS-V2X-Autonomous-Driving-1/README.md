@@ -4,8 +4,8 @@
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis
-* **Time Complexity:** $O(n)$
-* **Space Complexity:** $O(n)$
+* **Time Complexity:** $O(N)$
+* **Space Complexity:** $O(N)$
 
 ### Mistakes & Lessons
 **Lesson:** Using prefix sums to find the minimum number of swaps required.

@@ -4,8 +4,8 @@
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis
-* **Time Complexity:** $O(n\log(n))$
-* **Space Complexity:** $O(n)$
+* **Time Complexity:** $O(N\log(N))$
+* **Space Complexity:** $O(N)$
 
 ### Mistakes & Lessons
 **Lesson:** Tracking pointer for every parameter to optimize time complexity.

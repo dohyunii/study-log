@@ -4,8 +4,8 @@
 > **Difficulty:** Platinum 4
 
 ### Complexity Analysis
-* **Time Complexity:** $O(n\log(n))$
-* **Space Complexity:** $O(n\log(n))$
+* **Time Complexity:** $O(N\log(N))$
+* **Space Complexity:** $O(N\log(N))$
 
 ### Mistakes & Lessons
 **Lesson:** Functional graph is a directed graph where each node has exactly one outgoing edge. Functional graph has exactly one cycle per component.
