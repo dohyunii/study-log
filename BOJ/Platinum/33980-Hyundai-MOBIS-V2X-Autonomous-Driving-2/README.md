@@ -1,4 +1,13 @@
-- Approach: greedy, ad-hoc, prefix sum
-- Space Complexity: O(n)
-- Time Complexity: O(n)
-- Key Factors: one swap can change the gap +1 or -1. It is always optimal to change the furthest R and Us.
+## [[BOJ-33980] 현대모비스 V2X 자율주행 2 (Hyundai MOBIS V2X Autonomous Driving 2)](https://www.acmicpc.net/problem/33980)
+
+> **Topic:** Greedy, Ad-Hoc, Prefix Sum
+> **Difficulty:** Platinum 3
+
+### Complexity Analysis
+* **Time Complexity:** $O(n)$
+* **Space Complexity:** $O(n)$
+
+### Mistakes & Lessons
+**Lesson:** One swap can change the gap +1 or -1. It is always optimal to change the furthest R and Us.
+
+---
