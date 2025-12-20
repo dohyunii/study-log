@@ -8,10 +8,5 @@
 * **Space Complexity:** $O(n)$
 
 ### Mistakes & Lessons
-
-> [!TIP]
-> **Mathematical Insight: Harmonic Series**
-> The partial sum of a Harmonic Series is approximately $\ln(n)$. 
-> This justifies why $O(\sum_{i=1}^{n} \frac{n}{i}) = O(n \log n)$.
-
+**Lesson:** The partial sum of a Harmonic Series is approximately $\ln(n)$, which is why $O(\sum \frac{n}{i}) = O(n \ln(n))$.
 ---
