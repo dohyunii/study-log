@@ -1,7 +1,7 @@
 ## [[BOJ-33977] K-POP](https://www.acmicpc.net/problem/33977)
 
 > **Topic:** Tree, Ad-hoc, Constructive
-> **Difficulty:** Diamond V
+> **Difficulty:** Gold IV
 
 ### Complexity Analysis
 * **Time Complexity:** $O(\sqrt{K})$ — The algorithm iterates or recurses relative to the square root of the target value $K$ to construct the required tree structure efficiently.
