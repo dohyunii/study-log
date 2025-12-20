@@ -1,10 +1,10 @@
-# [BOJ-33968: 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
+## [BOJ-33968: 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
 > **Topic:** string, hashing, Manacher's
 > **Difficulty:** Platinum 4
 
-## 2. Complexity Analys
+## Complexity Analys
 * **Space Complexity:** $O(n)$
 * **Time Complexity:** $O(n^2\log(n))$
 
-## 3. Mistakes & Lessons
+## Mistakes & Lessons
 **Lesson:** The partial sum of a Harmonic Series is approximately $\ln(n)$, which is why $O(\sum \frac{n}{i}) = O(n \ln(n))$.
