@@ -9,4 +9,5 @@
 
 ### Mistakes & Lessons
 **Lesson:** The partial sum of a Harmonic Series is approximately $\ln(n)$, which is why $O(\sum \frac{n}{i}) = O(n \ln(n))$.
+
 ---
