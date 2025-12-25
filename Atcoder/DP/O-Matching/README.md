@@ -3,7 +3,7 @@
 > **Topic:** Dynamic Programming, Bitmasking
 
 ### Complexity Analysis
-* **Time Complexity:** $O(N\2^N)$
+* **Time Complexity:** $O(N2^N)$
 * **Space Complexity:** $O(2^N)$
 
 ### Mistakes & Lessons
@@ -11,3 +11,4 @@
 
 
 ---
+
