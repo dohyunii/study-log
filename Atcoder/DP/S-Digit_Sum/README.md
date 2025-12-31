@@ -3,8 +3,8 @@
 > **Topic:** Dynamic Programming
 
 ### Complexity Analysis
-* **Time Complexity:** $O(|K|D)$
-* **Space Complexity:** $O(|K|D)$
+* **Time Complexity:** $O(\mathopen|K\mathclose|D)$
+* **Space Complexity:** $O(\mathopen|K\mathclose|D)$
 
 ### Mistakes & Lessons
 **Lesson:** Learned about digit dynamic programming.
