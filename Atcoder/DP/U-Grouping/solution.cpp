@@ -27,8 +27,9 @@ int main(){
     }
     for(int mask = 1; mask < (1 << n); ++mask){
         for(int msk = mask; msk > 0; msk = (msk - 1) & mask){
-            dp[mask] = max(dp[mask], dp[mask - msk] + cost[msk]);
+            dp[mask] = max(dp[mask], dp[mask ^ msk] + cost[msk]);
         }
     }
     cout << dp[(1 << n) - 1];
+
 }
