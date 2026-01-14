@@ -3,11 +3,12 @@
 > **Topic:** Dynamic Programming, Sorting
 
 ### Complexity Analysis
-* **Time Complexity:** $O(N\log(N)+N Max(S+W))$
+* **Time Complexity:** $O(N\log(N)+N\Max(S+W))$
 * **Space Complexity:** $O(Max(S+W))$
 
 ### Mistakes & Lessons
 **Lesson:** Think of proving the existence sorting order.\
+
 
 
 
