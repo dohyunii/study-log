@@ -4,11 +4,12 @@
 > **Difficulty:** Gold IV
 
 ### Complexity Analysis
-* **Time Complexity:** $O(N\log(N)})$
+* **Time Complexity:** $O(N\log(N))$
 * **Space Complexity:** $O(N)$
 
 ### Mistakes & Lessons
 **Lesson:** unordered_set is slower because average degree of a node is roughly 2, binary search does it faster rather than computing hash everytime.
+
 
 
 
