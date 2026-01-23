@@ -10,7 +10,7 @@
 **Lesson:** Learned re-rooting technique\
 **Mistake:** while updating dp[root] didn't multiply its parent dp.
 
-### Referenes
+### References
 * [Rerooting Technique (codeforces)](https://codeforces.com/topic/76681/en17?locale=ru)
 
 

@@ -7,4 +7,7 @@
 * **Time Complexity:** $O(N\log(N))$
 * **Space Complexity:** $O(N\log(N))$
 
+### References
+* [An applicative random-access stack tutorial](https://cses.fi/problemset/model/1687/)
+
 ---

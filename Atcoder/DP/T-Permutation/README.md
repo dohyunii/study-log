@@ -10,7 +10,7 @@
 **Lesson:** Learned about insertion dynamic programming.\
 **Mistake:** When s[i - 1] equals to '>', should have went from j to i-1, because the previous j-th smallest number is larger in the current set.
 
-### Referenes
+### References
 * [Atcoder-t Permutation Solution](https://atcoder.jp/contests/dp/editorial/3722)
 
 

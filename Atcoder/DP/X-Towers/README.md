@@ -9,9 +9,4 @@
 ### Mistakes & Lessons
 **Lesson:** Think of proving the existence sorting order.
 
-
-
-
 ---
-
-

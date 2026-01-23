@@ -9,6 +9,4 @@
 ### Mistakes & Lessons
 **Mistakes:** Should have made fact[] and inv[] size of $H + W$ not $N$.
 
-
-
 ---
