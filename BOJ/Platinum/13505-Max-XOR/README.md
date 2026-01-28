@@ -1,4 +1,4 @@
-## [[BOJ-13505] 두 수 XOR(Max XOR)](https://www.acmicpc.net/problem/13505)
+## [[BOJ-13505] 두 수 XOR (Max XOR)](https://www.acmicpc.net/problem/13505)
 
 > **Topic:** Trie, Data Structures, Tree\
 > **Difficulty:** Platinum 3
